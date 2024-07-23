@@ -6,7 +6,7 @@ h1, h2{
 	text-align:center;
 }
 
-.list{
+.player-one{
 	border: 1px solid black;
 	border-radius:7px;
 	background-color:white;
@@ -20,7 +20,7 @@ ul{
 a{
 	text-decoration-line:none;
 }
-.media{
+.player-two{
 	border: 1px solid black;
 	border-radius:7px;
 	margin: 0px 60px;
